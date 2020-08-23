@@ -345,7 +345,7 @@ export class Carousel {
         }
 
         this.direction = 'left';
-        this.handleSlide(1);
+        this.handleSlide(3);
     }
 
     prev() {
@@ -354,7 +354,7 @@ export class Carousel {
         }
 
         this.direction = 'right';
-        this.handleSlide(1);
+        this.handleSlide(3);
     }
 
     select(index: number) {
