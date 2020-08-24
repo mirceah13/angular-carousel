@@ -136,5 +136,8 @@
       }
     }
   },
-  "defaultProject": "ivySwiperApp"
+  "defaultProject": "ivySwiperApp",
+  "cli": {
+    "analytics": "85ed06d3-37a0-434f-b9f7-2434a9471f86"
+  }
 }
